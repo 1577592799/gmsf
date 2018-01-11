@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMSF", "GMSF\GMSF.csproj", "{7FF38397-3545-4A34-BCEC-08B3B0774E66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMSF.API", "GMSF.API\GMSF.API.csproj", "{56B78B90-7762-4598-AC06-A2C9EEC0B117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMSF.Service", "GMSF.Service\GMSF.Service.csproj", "{B1234359-4B18-47D0-9E7B-562C3AAD5488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF38397-3545-4A34-BCEC-08B3B0774E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF38397-3545-4A34-BCEC-08B3B0774E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF38397-3545-4A34-BCEC-08B3B0774E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF38397-3545-4A34-BCEC-08B3B0774E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B78B90-7762-4598-AC06-A2C9EEC0B117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B78B90-7762-4598-AC06-A2C9EEC0B117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B78B90-7762-4598-AC06-A2C9EEC0B117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B78B90-7762-4598-AC06-A2C9EEC0B117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1234359-4B18-47D0-9E7B-562C3AAD5488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1234359-4B18-47D0-9E7B-562C3AAD5488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1234359-4B18-47D0-9E7B-562C3AAD5488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1234359-4B18-47D0-9E7B-562C3AAD5488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
