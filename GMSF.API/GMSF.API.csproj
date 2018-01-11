@@ -118,7 +118,6 @@
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
-    <Content Include="test\default.png" />
     <Content Include="test\index.html" />
     <Content Include="test\js\api_test.js" />
     <Content Include="test\js\jquery-1.10.2.min.js" />
